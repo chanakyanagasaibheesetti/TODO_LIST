@@ -18,7 +18,7 @@ h1{
 #container{
     width: 500px;
     height:400px;
-    background-color: rgba(204, 204, 204, 0.988);
+    background-color: rgba(244, 9, 9, 0.988);
     box-shadow: 0px 0px 35px 15px;
     display: flex;
     flex-direction: column;
@@ -80,8 +80,8 @@ h1{
 ul{
     height: 300px;
     width: 490px;
-    border-top: 2px  solid black;
-    border-bottom: 2px  solid black;
+    border-top: 2px  solid rgb(237, 11, 11);
+    border-bottom: 2px  solid rgb(56, 56, 56);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -94,7 +94,7 @@ li{
     list-style-type: none;
     display: flex;
     justify-content: space-between;
-    background-color: white;
+    background-color: rgb(82, 10, 236);
     border-radius: 20px;
     min-height: 45px;
     width: 430px;
@@ -113,7 +113,7 @@ overflow:auto ;
     word-break:break-all;
 }
 li :hover{
-    background-color: rgba(183, 183, 252, 0.488);
+    background-color: rgba(5, 245, 65, 0.992);
 }
 /* to do works in list */
 li label{
